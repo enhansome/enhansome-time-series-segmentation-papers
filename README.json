@@ -1,0 +1,97 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Star History"
+    },
+    {
+      "description": "🚩 2026/4/5: If you find this repository helpful for your research, please consider citing the following paper:",
+      "items": [],
+      "title": "Citation"
+    },
+    {
+      "description": "🚩 2024/4/28: In fact, manually annotating segment points (change points) in large time series datasets is extremely labor-intensive and somewhat subjective. Therefore, the field of time series segmentation lacks large public datasets with ground truth, making it difficult for supervised methods to find sources of training data. Unsupervised time series segmentation also acts to some extent as an automatic annotator of segmentation points, making it easier to implement. Currently, 95% of the research work included in this repository is unsupervised.\n🚩 2024/1/27: I have marked some recommended papers / datasets / implementations with 🌟 (Just my personal preference 😉).",
+      "items": [],
+      "title": "Some Additional Information"
+    },
+    {
+      "description": "NOTE: the ranking has no particular order.",
+      "items": [],
+      "title": "Survey & Evaluation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "David Hallac (Stanford)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Shaghayegh Gharghabi (from Eamonn Keogh's Lab, UC Riverside)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Yasuko Matsubara & Yasushi Sakurai (from Sakurai & Matsubara Lab)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Bryan Hooi (NUS)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Liangzhe Chen & Anika Tabassum (Virginia Tech, supervised by B. Aditya Prakash)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Shohreh Deldari (from Cruise research group, RMIT ) & Flora D. Salim (UNSW)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Peng Wang (fudan University)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Arik Ermshaus (Humboldt-Universität zu Berlin)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Lei Li (CMU)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Feng Zhou (CMU)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Chun-Tung Li (CUHK)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tong Hanghang (UIUC)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Others"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:36:56.888Z",
+    "original_repository": "lzz19980125/awesome-time-series-segmentation-papers",
+    "original_repository_sha": "03e80bb938fef7138de723337e9fc5007390e7b7",
+    "enhanced_repository": "enhansome/enhansome-time-series-segmentation-papers",
+    "enhanced_repository_description": null,
+    "title": "Awesome Time Series Segmentation Papers with stars"
+  }
+}
