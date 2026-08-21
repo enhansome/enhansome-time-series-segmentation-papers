@@ -111,7 +111,7 @@ NOTE: the ranking has no particular order.
 | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | *Adv. Data Anal. Classif. '19* |            Greedy Gaussian segmentation of multivariate time series 🌟           |                                  [GGS](https://github.com/cvxgrp/GGS) ⭐ 102 \| 🐛 4 \| 🌐 Python \| 📅 2023-01-02![Stars](https://img.shields.io/github/stars/cvxgrp/GGS)                                  |
 | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |           *Arxiv '18*          |           MASA: Motif-Aware State Assignment in Noisy Time Series Data           | [MASA](https://github.com/snap-stanford/masa?utm_source=catalyzex.com) ⭐ 23 \| 🐛 1 \| 🌐 Python \| 📅 2020-10-21![Stars](https://img.shields.io/github/stars/snap-stanford/masa?utm_source=catalyzex.com) |
 |                                      *Ph.D. Thesis*                                     |         *ProQuest '18*         |           Inferring Structure from Multivariate Time Series Sensor Data          |                                                                                                    None                                                                                                    |
-| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |            *KDD '17*           | Toeplitz Inverse Covariance-Based Clustering of Multivariate Time Series Data 🌟 |                           [TICC](https://github.com/davidhallac/TICC) ⭐ 476 \| 🐛 25 \| 🌐 Python \| 📅 2020-06-14![Stars](https://img.shields.io/github/stars/davidhallac/TICC)                           |
+| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |            *KDD '17*           | Toeplitz Inverse Covariance-Based Clustering of Multivariate Time Series Data 🌟 |                           [TICC](https://github.com/davidhallac/TICC) ⭐ 477 \| 🐛 25 \| 🌐 Python \| 📅 2020-06-14![Stars](https://img.shields.io/github/stars/davidhallac/TICC)                           |
 | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |            *KDD '17*           |             Network Inference via the Time-Varying Graphical Lasso 🌟            |                          [TVGL](https://github.com/davidhallac/TVGL) ⭐ 56 \| 🐛 4 \| 🌐 Python \| 📅 2017-09-15![Stars](https://img.shields.io/github/stars/JingboYang/driver2vec)                         |
 
 ## [Shaghayegh Gharghabi](https://scholar.google.com/citations?hl=en\&user=EITBC1YAAAAJ\&view_op=list_works\&sortby=pubdate) (from [Eamonn Keogh](https://www.cs.ucr.edu/~eamonn/)'s Lab, UC Riverside)
@@ -302,4 +302,4 @@ NOTE: the ranking has no particular order.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
