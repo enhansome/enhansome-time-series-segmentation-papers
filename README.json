@@ -1,7 +1,1028 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "NOTE: the ranking has no particular order.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Survey",
+          "description": "J R STAT SOC B. (JRSSB) '24 Automatic change-point detection in time series via deep learning AutoCPD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 559365964,
+            "language": "PureBasic",
+            "last_commit": "2023-12-17T14:18:59Z",
+            "owner": "Jieli12",
+            "repo": "AutoCPD",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dataset",
+          "description": "DARLI-AP@EDBT/ICDT '23 Time Series Segmentation Applied to a New Data Set for Mobile Sensing of Human Activities 🌟 MOSAD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 585911462,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-03-24T11:50:06Z",
+            "owner": "ermshaua",
+            "repo": "mobile-sensing-human-activity-data-set",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Evaluation",
+          "description": "Arxiv '20 An Evaluation of Change Point Detection Algorithms 🌟 TCPDBench",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 232149650,
+            "language": null,
+            "last_commit": "2025-07-31T18:20:05Z",
+            "owner": "alan-turing-institute",
+            "repo": "TCPDBench",
+            "stars": 147
+          }
+        }
+      ],
+      "title": "Survey & Evaluation"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Driver2vec",
+          "description": "KDD Workshop MiLeTS '20 Driver2vec Driver Identification from Automotive Data Driver2vec",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 279711720,
+            "language": "Python",
+            "last_commit": "2020-07-14T23:20:23Z",
+            "owner": "JingboYang",
+            "repo": "driver2vec",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GGS",
+          "description": "Adv. Data Anal. Classif. '19 Greedy Gaussian segmentation of multivariate time series 🌟 GGS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 71188984,
+            "language": "Python",
+            "last_commit": "2023-01-02T08:27:50Z",
+            "owner": "cvxgrp",
+            "repo": "GGS",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MASA",
+          "description": "Arxiv '18 MASA: Motif-Aware State Assignment in Noisy Time Series Data MASA",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 147604457,
+            "language": "Python",
+            "last_commit": "2020-10-21T08:21:55Z",
+            "owner": "snap-stanford",
+            "repo": "masa",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TICC",
+          "description": "KDD '17 Toeplitz Inverse Covariance-Based Clustering of Multivariate Time Series Data 🌟 TICC",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 80052158,
+            "language": "Python",
+            "last_commit": "2020-06-14T19:43:50Z",
+            "owner": "davidhallac",
+            "repo": "TICC",
+            "stars": 477
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TVGL",
+          "description": "KDD '17 Network Inference via the Time-Varying Graphical Lasso 🌟 TVGL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 83005300,
+            "language": "Python",
+            "last_commit": "2017-09-15T19:46:10Z",
+            "owner": "davidhallac",
+            "repo": "TVGL",
+            "stars": 56
+          }
+        }
+      ],
+      "title": "David Hallac (Stanford)"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "microadapt",
+          "description": "KDD '25 MicroAdapt Self-Evolutionary Dynamic Modeling Algorithms for Time-evolving Data Streams microadapt",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 991038097,
+            "language": null,
+            "last_commit": "2025-06-27T08:06:54Z",
+            "owner": "yasuko-matsubara",
+            "repo": "microadapt",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CyberCScope",
+          "description": "WWW '25 short CyberCScope: Mining Skewed Tensor Streams and Online Anomaly Detection in Cybersecurity Systems 🌟 CyberCScope",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 901265308,
+            "language": "Python",
+            "last_commit": "2026-08-07T04:20:12Z",
+            "owner": "kotaNakm",
+            "repo": "CyberCScope",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "D-Tracker",
+          "description": "KDD '25 D-Tracker Modeling Interest Diffusion in Social Activity Tensor Data Streams D-Tracker",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 852721235,
+            "language": "Python",
+            "last_commit": "2026-02-14T07:29:40Z",
+            "owner": "Higashiguchi-Shingo",
+            "repo": "D-Tracker",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MissNet",
+          "description": "KDD '24 Mining of Switching Sparse Networks for Missing Value Imputation in Multivariate Time Series 🌟 MissNet",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 747954660,
+            "language": "Python",
+            "last_commit": "2024-05-19T23:08:53Z",
+            "owner": "KoheiObata",
+            "repo": "MissNet",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DMM",
+          "description": "WWW '24 Dynamic Multi-Network Mining of Tensor Time Series 🌟 DMM",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 703362139,
+            "language": "Python",
+            "last_commit": "2024-05-19T23:07:26Z",
+            "owner": "KoheiObata",
+            "repo": "DMM",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CubeScope",
+          "description": "WWW '23 Fast and Multi-aspect Mining of Complex Time-stamped Event Streams 🌟 CubeScope",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 601125821,
+            "language": "Python",
+            "last_commit": "2025-01-27T04:51:23Z",
+            "owner": "kotaNakm",
+            "repo": "CubeScope",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dismo",
+          "description": "CIKM '22 Modeling Dynamic Interactions over Tensor Streams Dismo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 607511056,
+            "language": "Python",
+            "last_commit": "2023-04-27T10:43:33Z",
+            "owner": "kokikwbt",
+            "repo": "dismo",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ssmf",
+          "description": "NeurIPS '21 SSMF Shifting Seasonal Matrix Factorization ssmf",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 422041561,
+            "language": "Python",
+            "last_commit": "2025-01-31T03:03:47Z",
+            "owner": "kokikwbt",
+            "repo": "ssmf",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CubeMarker",
+          "description": "ICDM '19 Multi-aspect mining of complex sensor sequences 🌟 CubeMarker",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 239654865,
+            "language": "C",
+            "last_commit": "2026-02-20T16:29:19Z",
+            "owner": "TakatoHonda",
+            "repo": "CubeMarker",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OrbitMap",
+          "description": "KDD '19 Dynamic Modeling and Forecasting of Time-evolving Data Streams OrbitMap",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 264833217,
+            "language": "Python",
+            "last_commit": "2020-05-19T00:46:58Z",
+            "owner": "yasuko-matsubara",
+            "repo": "orbitmap",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "Yasuko Matsubara & Yasushi Sakurai (from Sakurai & Matsubara Lab)"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BeatGAN",
+          "description": "TKDE '22 Time Series Anomaly Detection with Adversarial Reconstruction Networks 🌟 BeatGAN",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 289442982,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-03-30T13:00:15Z",
+            "owner": "stair-team",
+            "repo": "spartan2-tutorials",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BeatGAN",
+          "description": "IJCAI '19 BeatGAN Anomalous Rhythm Detection using Adversarially Generated Time Series 🌟 BeatGAN",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 172826919,
+            "language": "Roff",
+            "last_commit": "2021-08-31T09:27:57Z",
+            "owner": "imbingox",
+            "repo": "BeatGAN",
+            "stars": 74
+          }
+        }
+      ],
+      "title": "Bryan Hooi (NUS)"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RaTSS",
+          "description": "CIKM '21 Actionable Insights in Urban Multivariate Time-series RaTSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 386774561,
+            "language": "Python",
+            "last_commit": "2021-11-02T01:42:22Z",
+            "owner": "AdityaLab",
+            "repo": "RaTSS",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cut-n-Reveal",
+          "description": "TIST '20 Cut-n-Reveal: Time-Series Segmentations with Explanations 🌟 Cut-n-Reveal",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 414042532,
+            "language": "MATLAB",
+            "last_commit": "2021-10-06T06:01:14Z",
+            "owner": "AdityaLab",
+            "repo": "Cut-n-Reveal",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DASSA",
+          "description": "AAAI '18 Automatic Segmentation of Data Sequences DASSA",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 749049312,
+            "language": "MATLAB",
+            "last_commit": "2026-07-21T04:10:25Z",
+            "owner": "lzz19980125",
+            "repo": "awesome-time-series-segmentation-papers",
+            "stars": 547
+          }
+        }
+      ],
+      "title": "Liangzhe Chen & Anika Tabassum (Virginia Tech, supervised by B. Aditya Prakash)"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ICD",
+          "description": "JAIR '24 Detecting Change Intervals with Isolation Distributional Kernel 🌟 ICD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 321521341,
+            "language": "TypeScript",
+            "last_commit": "2025-10-17T06:35:57Z",
+            "owner": "IsolationKernel",
+            "repo": "Codes",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "COCOA",
+          "description": "IMWUT '22 COCOA Cross Modality Contrastive Learning for Sensor Data 🌟 COCOA",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 517073166,
+            "language": "Python",
+            "last_commit": "2022-09-11T12:37:22Z",
+            "owner": "cruiseresearchgroup",
+            "repo": "COCOA",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TSCP2",
+          "description": "WWW '21 Time Series Change Point Detection with Self-Supervised Contrastive Predictive Coding 🌟 TSCP2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 333978861,
+            "language": "Python",
+            "last_commit": "2022-04-05T00:35:56Z",
+            "owner": "cruiseresearchgroup",
+            "repo": "TSCP2",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ESPRESSO",
+          "description": "IMWUT '20 ESPRESSO Entropy and ShaPe awaRe timE-Series SegmentatiOn for Processing Heterogeneous Sensor Data ESPRESSO",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 278772679,
+            "language": "MATLAB",
+            "last_commit": "2022-07-10T20:08:41Z",
+            "owner": "cruiseresearchgroup",
+            "repo": "ESPRESSO",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IGTs",
+          "description": "Pervasive Mob. Comput. '17 Information gain-based metric for recognizing transitions in human activities 🌟 IGTs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 207936400,
+            "language": "Python",
+            "last_commit": "2022-06-25T08:20:31Z",
+            "owner": "cruiseresearchgroup",
+            "repo": "IGTS-python",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Shohreh Deldari (from Cruise research group, RMIT ) & Flora D. Salim (UNSW)"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cLaP",
+          "description": "Arxiv '25 CLaP - State Detection from Time Series cLaP",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 630454501,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-07-21T14:49:07Z",
+            "owner": "ermshaua",
+            "repo": "classification-label-profile",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "multivariate-clasp",
+          "description": "AALTD '25 Multivariate Human Activity Segmentation: Systematic Benchmark with ClaSP multivariate-clasp",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 774349305,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-07-24T09:09:05Z",
+            "owner": "ermshaua",
+            "repo": "multivariate-clasp",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clasp",
+          "description": "VLDB '24 Raising the ClaSS of Streaming Time Series Segmentation 🌟 Clasp",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 566282322,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-06-03T09:45:21Z",
+            "owner": "ermshaua",
+            "repo": "classification-score-stream",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Arik Ermshaus (Humboldt-Universität zu Berlin)"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mlds",
+          "description": "Neurips '13 MLDS Multilinear Dynamical Systems for Tensor Time Series mlds",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 367417662,
+            "language": "MATLAB",
+            "last_commit": "2021-05-20T04:45:39Z",
+            "owner": "lileicc",
+            "repo": "mlds",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dynammo",
+          "description": "KDD '09 DynaMMo: Mining and Summarization of Coevolving Sequences with Missing Values 🌟 dynammo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 14731594,
+            "language": "MATLAB",
+            "last_commit": "2021-05-20T04:51:44Z",
+            "owner": "lileicc",
+            "repo": "dynammo",
+            "stars": 21
+          }
+        }
+      ],
+      "title": "Lei Li (CMU)"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NET3",
+          "description": "WWW'21 Network of Tensor Time Series NET3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 355464260,
+            "language": "Python",
+            "last_commit": "2021-04-07T08:36:43Z",
+            "owner": "baoyujing",
+            "repo": "NET3",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dcmf",
+          "description": "SDM '15 Fast Mining of a Network of Coevolving Time Series dcmf (Unofficial)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 204955833,
+            "language": "Roff",
+            "last_commit": "2021-10-28T12:02:08Z",
+            "owner": "kokikwbt",
+            "repo": "dcmf",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "facets",
+          "description": "KDD '15 Facets: Fast comprehensive mining of coevolving high-order time facets (Unofficial)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 146094021,
+            "language": "Python",
+            "last_commit": "2018-11-26T12:00:20Z",
+            "owner": "kokikwbt",
+            "repo": "facets",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Tong Hanghang (UIUC)"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Seg-Eval",
+          "description": "NeurIPS '25 Toward Interpretable Evaluation Measures for Time Series Segmentation Seg-Eval",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1081304044,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-05-29T16:56:42Z",
+            "owner": "fchavelli",
+            "repo": "tsseg-eval",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ISSD",
+          "description": "SIGMOD '25 ISSD: Indicator Selection for Time Series State Detection ISSD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 939126543,
+            "language": "Python",
+            "last_commit": "2025-03-02T14:29:56Z",
+            "owner": "Lab-ANT",
+            "repo": "ISSD",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "code",
+          "description": "Sci. Adv. '25 Deep manifold learning reveals hidden developmental dynamics of a human embryo model code, dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 867929544,
+            "language": "Python",
+            "last_commit": "2024-10-09T01:56:59Z",
+            "owner": "kejiechen",
+            "repo": "embryoid_developmental_dynamics",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PromptTSS",
+          "description": "CIKM '25 PromptTSS A Prompting-Based Approach for Interactive Multi-Granularity Time Series Segmentation PromptTSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1037736449,
+            "language": "Python",
+            "last_commit": "2025-09-21T20:42:50Z",
+            "owner": "blacksnail789521",
+            "repo": "PromptTSS",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "B-CAVE",
+          "description": "TKDE '25 B-CAVE: A Robust Online Time Series Change Point Detection Algorithm Based on the Between-Class Average and Variance Evaluation Approach B-CAVE",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 604588305,
+            "language": "MATLAB",
+            "last_commit": "2023-02-21T12:15:53Z",
+            "owner": "Adeep2021",
+            "repo": "B-CAVE",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MSSN",
+          "description": "IEEE/CAA Journal of Automatica Sinica '25 Multi-Scale Time Series Segmentation Network Based on Eddy Current Testing for Detecting Surface Metal Defects MSSN",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 871936611,
+            "language": "Python",
+            "last_commit": "2024-10-16T04:27:54Z",
+            "owner": "ShawniLee",
+            "repo": "MSSN",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "code",
+          "description": "Applied Energy '25 Is it returning too hot Time series segmentation and feature clustering of end-user substation faults in district heating systems code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 876834710,
+            "language": "R",
+            "last_commit": "2025-01-20T14:35:02Z",
+            "owner": "DanLeiria",
+            "repo": "phd",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OSFS",
+          "description": "KNOWL INF SYST. (KAIS) '24 Optimal online time-series segmentation OSFS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 307970891,
+            "language": "C++",
+            "last_commit": "2020-10-28T10:34:35Z",
+            "owner": "ma1capoa",
+            "repo": "OSFS_Method",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UQ-TSS",
+          "description": "CIKM'24 Towards Uncertainty Quantification for Time Series Segmentation UQ-TSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 802949616,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-05-21T20:50:56Z",
+            "owner": "ecdraayer",
+            "repo": "UQ-TSS",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vars",
+          "description": "TKDE'24 Discovering Dynamic Patterns From Spatiotemporal Data With Time-Varying Low-Rank Autoregression Vars",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 504303151,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-12-14T01:38:34Z",
+            "owner": "xinychen",
+            "repo": "vars",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "E2Usd",
+          "description": "WWW '24 E2Usd: Efficient-yet-effective Unsupervised State Detection for Multivariate Time Series 🌟 E2Usd",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 699794930,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-07-29T09:54:13Z",
+            "owner": "AI4CTS",
+            "repo": "E2Usd",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MultiBEATS",
+          "description": "Information Fusion '24 MultiBEATS Blocks of eigenvalues algorithm for multivariate time series dimensionality reduction 🌟 MultiBEATS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 634955251,
+            "language": "Python",
+            "last_commit": "2023-11-28T12:08:02Z",
+            "owner": "auroragonzalez",
+            "repo": "multiBEATS",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MC-TIRE",
+          "description": "TKDE '23 Change Point Detection in Multi-channel Time Series via a Time-invariant Representation 🌟 MC-TIRE",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 369238147,
+            "language": "Python",
+            "last_commit": "2024-12-05T12:29:57Z",
+            "owner": "caozhenxiang",
+            "repo": "MC-TIRE",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Coming soom",
+          "description": "TII '23 A Boundary Consistency-Aware Multitask Learning Framework for Joint Activity Segmentation and Recognition With Wearable Sensors Coming soom 🙃",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 488684303,
+            "language": null,
+            "last_commit": "2022-05-04T17:32:38Z",
+            "owner": "xspc",
+            "repo": "Segmentation-Sensor-based-HAR",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Time2State",
+          "description": "SIGMOD '23 Time2State: An Unsupervised Framework for Inferring the Latent States in Time Series Data 🌟 Time2State",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 481599516,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-03-18T11:09:58Z",
+            "owner": "Lab-ANT",
+            "repo": "Time2State",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dataset",
+          "description": "EAAI '23 PrecTime A deep learning architecture for precise time series segmentation in industrial manufacturing operations Dataset",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 549486700,
+            "language": null,
+            "last_commit": "2024-04-20T19:20:36Z",
+            "owner": "boschresearch",
+            "repo": "Hydraulic-EoL-Testing",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tensorTS",
+          "description": "JSS'22 Analysis of Tensor Time Series: tensorTS tensorTS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 229180514,
+            "language": "R",
+            "last_commit": "2026-07-07T01:36:34Z",
+            "owner": "ZeBang",
+            "repo": "tensorTS",
+            "stars": 122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "collossl",
+          "description": "IMWUT '22 ColloSSL Collaborative Self-Supervised Learning for Human Activity Recognition 🌟 collossl",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 495431766,
+            "language": "Python",
+            "last_commit": "2022-07-02T23:37:06Z",
+            "owner": "akhilmathurs",
+            "repo": "collossl",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tGLAD",
+          "description": "Neurips Workshop '22 Are uGLAD? Time will tell! 🌟 tGLAD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 600221496,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-08-12T21:23:35Z",
+            "owner": "Harshs27",
+            "repo": "tGLAD",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TIRE",
+          "description": "IEEE TSP '21 Change Point Detection in Time Series Data Using Autoencoders With a Time-Invariant Representation 🌟 TIRE",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 283444985,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-07-21T08:50:26Z",
+            "owner": "deryckt",
+            "repo": "TIRE",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepSeg",
+          "description": "IOTJ '21 DeepSeg Deep-Learning-Based Activity Segmentation Framework for Activity Recognition Using WiFi DeepSeg",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 266497634,
+            "language": "Python",
+            "last_commit": "2021-07-27T08:03:20Z",
+            "owner": "ChunjingXiao",
+            "repo": "DeepSeg",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ma_mts",
+          "description": "Pattern Recognit. Lett. '20 Memetic algorithm for multivariate time-series segmentation 🌟 ma_mts",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 255265952,
+            "language": "MATLAB",
+            "last_commit": "2020-04-13T08:05:43Z",
+            "owner": "hlim-kist",
+            "repo": "ma_mts",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "U-Time",
+          "description": "Neurips '19 U-Time: A Fully Convolutional Network for Time Series Segmentation Applied to Sleep Staging 🌟 U-Time",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 164857449,
+            "language": "Python",
+            "last_commit": "2026-06-24T21:33:18Z",
+            "owner": "perslev",
+            "repo": "U-Time",
+            "stars": 317
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tssa",
+          "description": "Neurocomputing '19 A hybrid dynamic exploitation barebones particle swarm optimisation algorithm for time series segmentation tssa",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 223603001,
+            "language": "MATLAB",
+            "last_commit": "2019-12-30T11:08:57Z",
+            "owner": "ayrna",
+            "repo": "tssa",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BEATS",
+          "description": "TKDE '18 BEATS Blocks of Eigenvalues Algorithm for Time series Segmentation 🌟 BEATS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 73124474,
+            "language": "HTML",
+            "last_commit": "2018-10-08T17:03:12Z",
+            "owner": "auroragonzalez",
+            "repo": "BEATS",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hog1D",
+          "description": "WACV '16 Decomposing Time Series with application to Temporal Segmentation 🌟 Hog1D (Unofficial)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 247240853,
+            "language": "Python",
+            "last_commit": "2021-03-14T17:14:06Z",
+            "owner": "AjeyPaiK",
+            "repo": "HOG1D",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RuLSIF",
+          "description": "Neural Networks '13 Change-point detection in time-series data by relative density-ratio estimation 🌟 RuLSIF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 326425909,
+            "language": "MATLAB",
+            "last_commit": "2021-01-03T14:35:24Z",
+            "owner": "anewgithubname",
+            "repo": "change_detection",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GP-HSMM",
+          "description": "Frontiers in Neurorobotics Volume 11 - 2017 Segmenting Continuous Motions with Hidden Semi-markov Models and Gaussian Processes GP-HSMM",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 155489076,
+            "language": "Python",
+            "last_commit": "2025-07-15T01:32:53Z",
+            "owner": "naka-lab",
+            "repo": "GP-HSMM",
+            "stars": 22
+          }
+        }
+      ],
+      "title": "Others"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T07:14:13.805Z",
+    "last_updated": "2026-08-24T14:21:32.386Z",
     "original_repository": "lzz19980125/awesome-time-series-segmentation-papers",
     "original_repository_id": 749049312,
     "original_repository_sha": "03e80bb938fef7138de723337e9fc5007390e7b7",
