@@ -629,7 +629,7 @@
         },
         {
           "node_type": "item",
-          "title": "code",
+          "title": "embryoid_developmental_dynamics",
           "description": "Sci. Adv. '25 Deep manifold learning reveals hidden developmental dynamics of a human embryo model code, dataset",
           "children": [],
           "repo_info": {
@@ -689,7 +689,7 @@
         },
         {
           "node_type": "item",
-          "title": "code",
+          "title": "phd",
           "description": "Applied Energy '25 Is it returning too hot Time series segmentation and feature clustering of end-user substation faults in district heating systems code",
           "children": [],
           "repo_info": {
@@ -1022,7 +1022,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:21:32.386Z",
+    "last_updated": "2026-08-25T06:16:57.957Z",
     "original_repository": "lzz19980125/awesome-time-series-segmentation-papers",
     "original_repository_id": 749049312,
     "original_repository_sha": "03e80bb938fef7138de723337e9fc5007390e7b7",
