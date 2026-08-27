@@ -1022,9 +1022,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T07:02:43.449Z",
-    "original_repository": "lzz19980125/awesome-time-series-segmentation-papers",
-    "original_repository_id": 749049312,
+    "last_updated": "2026-08-27T12:10:53.100Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 749049312,
+      "language": "MATLAB",
+      "last_commit": "2026-07-21T04:10:25Z",
+      "owner": "lzz19980125",
+      "repo": "awesome-time-series-segmentation-papers",
+      "stars": 547
+    },
     "original_repository_sha": "03e80bb938fef7138de723337e9fc5007390e7b7",
     "enhanced_repository": "enhansome/enhansome-time-series-segmentation-papers",
     "enhanced_repository_description": null,
