@@ -1347,7 +1347,7 @@
             "open_issues": 5,
             "owner": "ChunjingXiao",
             "repo": "DeepSeg",
-            "stars": 80,
+            "stars": 79,
             "topics": [
               "activity-recognition",
               "activity-segmentation",
@@ -1523,7 +1523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T12:18:57.517Z",
+    "last_updated": "2026-09-08T11:07:49.430Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.",
