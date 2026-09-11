@@ -176,7 +176,7 @@
             "open_issues": 25,
             "owner": "davidhallac",
             "repo": "TICC",
-            "stars": 477,
+            "stars": 478,
             "topics": []
           },
           "first_seen": "2026-08-28T18:33:55.067Z"
@@ -1523,7 +1523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T11:08:43.929Z",
+    "last_updated": "2026-09-11T11:08:22.709Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.",
