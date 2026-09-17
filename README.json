@@ -1394,7 +1394,7 @@
             "open_issues": 9,
             "owner": "perslev",
             "repo": "U-Time",
-            "stars": 316,
+            "stars": 317,
             "topics": [
               "deep-learning",
               "fully-convolutional-networks",
@@ -1523,7 +1523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T11:23:16.006Z",
+    "last_updated": "2026-09-17T11:31:33.677Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.",
