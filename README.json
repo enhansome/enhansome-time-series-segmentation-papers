@@ -1421,7 +1421,7 @@
             "open_issues": 0,
             "owner": "ayrna",
             "repo": "tssa",
-            "stars": 10,
+            "stars": 11,
             "topics": [
               "coral-reefs-optimization",
               "genetic-algorithms",
@@ -1523,7 +1523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T11:11:44.772Z",
+    "last_updated": "2026-09-21T12:39:49.258Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.",
