@@ -903,7 +903,7 @@
             "open_issues": 0,
             "owner": "fchavelli",
             "repo": "tsseg-eval",
-            "stars": 9,
+            "stars": 10,
             "topics": [
               "data-analysis",
               "data-science",
@@ -1523,7 +1523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T12:39:49.258Z",
+    "last_updated": "2026-09-22T11:26:11.401Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.",
