@@ -164,7 +164,7 @@ NOTE: the ranking has no particular order.
 |                                      *Ph.D. Thesis*                                     | *ProQuest '21* | Explainable and Network-Based Approaches for Decision-making in Emergency Management |                                                                                   None                                                                                  |
 | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |   *CIKM '21*   |                 Actionable Insights in Urban Multivariate Time-series                |            [RaTSS](https://github.com/AdityaLab/RaTSS) ⭐ 2 \| 🐛 0 \| 🌐 Python \| 📅 2021-11-02![Stars](https://img.shields.io/github/stars/AdityaLab/RaTSS)           |
 | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |   *TIST '20*   |             Cut-n-Reveal: Time-Series Segmentations with Explanations 🌟             | [Cut-n-Reveal](https://github.com/AdityaLab/Cut-n-Reveal) ⭐ 1 \| 🐛 0 \| 🌐 MATLAB \| 📅 2021-10-06![Stars](https://img.shields.io/github/stars/AdityaLab/Cut-n-Reveal) |
-| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |   *AAAI '18*   |                       Automatic Segmentation of Data Sequences                       |            [DASSA](https://github.com/lzz19980125/awesome-time-series-segmentation-papers/tree/main/DASSA-master) ⭐ 547 \| 🐛 0 \| 🌐 MATLAB \| 📅 2026-07-21           |
+| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |   *AAAI '18*   |                       Automatic Segmentation of Data Sequences                       |                                  [DASSA](https://github.com/lzz19980125/awesome-time-series-segmentation-papers/tree/main/DASSA-master)                                 |
 |                                      *Ph.D. Thesis*                                     | *ProQuest '18* |                 Segmenting, Summarizing and Predicting Data Sequences                |                                                                                   None                                                                                  |
 | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |  *vt.edu '18*  |                Segmentations with Explanations for Outage Analysis 🌟                |                                                                                   None                                                                                  |
 
@@ -182,10 +182,10 @@ NOTE: the ranking has no particular order.
 
 ## [Peng Wang](https://scholar.google.com/citations?hl=en\&user=fxcAZkoAAAAJ\&view_op=list_works\&sortby=pubdate) (fudan University)
 
-|                                             TYPE                                            |     Venue    |                     Paper Title and Paper Interpretation                    |                                                                       Code                                                                       |
-| :-----------------------------------------------------------------------------------------: | :----------: | :-------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: |
-| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) |  *ICDE '21*  | GRAB: Finding Time Series Natural Structures via A Novel Graph-based Scheme | [GRAB](https://github.com/lzz19980125/awesome-time-series-segmentation-papers/tree/main/GRAB-master) ⭐ 547 \| 🐛 0 \| 🌐 MATLAB \| 📅 2026-07-21 |
-|   ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red)   | *SIGMOD '11* |                     Finding Semantics in Time Series 🌟                     |                                                                       None                                                                       |
+|                                             TYPE                                            |     Venue    |                     Paper Title and Paper Interpretation                    |                                                 Code                                                 |
+| :-----------------------------------------------------------------------------------------: | :----------: | :-------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: |
+| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) |  *ICDE '21*  | GRAB: Finding Time Series Natural Structures via A Novel Graph-based Scheme | [GRAB](https://github.com/lzz19980125/awesome-time-series-segmentation-papers/tree/main/GRAB-master) |
+|   ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red)   | *SIGMOD '11* |                     Finding Semantics in Time Series 🌟                     |                                                 None                                                 |
 
 ## [Arik Ermshaus](https://sites.google.com/view/arikermshaus) (Humboldt-Universität zu Berlin)
 
@@ -302,4 +302,4 @@ NOTE: the ranking has no particular order.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

@@ -525,47 +525,6 @@
             "topics": []
           },
           "first_seen": "2026-08-28T18:33:55.067Z"
-        },
-        {
-          "node_type": "item",
-          "title": "DASSA",
-          "description": "AAAI '18 Automatic Segmentation of Data Sequences DASSA",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.",
-            "homepage": null,
-            "id": 749049312,
-            "language": "MATLAB",
-            "license": "GPL-3.0",
-            "last_commit": "2026-07-21T04:10:25Z",
-            "open_issues": 0,
-            "owner": "lzz19980125",
-            "repo": "awesome-time-series-segmentation-papers",
-            "stars": 547,
-            "topics": [
-              "anomaly-detection",
-              "awesome",
-              "awesome-list",
-              "change-point-detection",
-              "data-mining",
-              "data-science",
-              "dataset",
-              "deep-learning",
-              "machine-learning",
-              "motion-capture",
-              "multivariate-time-series",
-              "paper-list",
-              "segmentation",
-              "time-series",
-              "time-series-analysis",
-              "time-series-models",
-              "time-series-segmentation",
-              "univariate-time-series",
-              "unsupervised-learning"
-            ]
-          },
-          "first_seen": "2026-08-28T18:33:55.067Z"
         }
       ],
       "title": "Liangzhe Chen & Anika Tabassum (Virginia Tech, supervised by B. Aditya Prakash)"
@@ -1523,7 +1482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T12:22:08.750Z",
+    "last_updated": "2026-10-03T05:11:07.412Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.",
