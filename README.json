@@ -1482,7 +1482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T11:33:01.096Z",
+    "last_updated": "2026-10-04T12:14:13.310Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.",
@@ -1494,7 +1494,7 @@
       "open_issues": 0,
       "owner": "lzz19980125",
       "repo": "awesome-time-series-segmentation-papers",
-      "stars": 547,
+      "stars": 546,
       "topics": [
         "anomaly-detection",
         "awesome",
