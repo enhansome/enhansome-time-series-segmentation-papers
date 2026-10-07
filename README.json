@@ -848,6 +848,36 @@
       "items": [
         {
           "node_type": "item",
+          "title": "tsseg",
+          "description": "ECML PKDD '26 tsseg: An Interactive Toolkit for Time Series Segmentation tsseg",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A Python library for Time Series Segmentation (ECML-PKDD'26)",
+            "homepage": "https://fchavelli.github.io/tsseg",
+            "id": 1024737926,
+            "language": "Python",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-10-07T12:34:26Z",
+            "open_issues": 0,
+            "owner": "fchavelli",
+            "repo": "tsseg",
+            "stars": 15,
+            "topics": [
+              "change-point-detection",
+              "data-analysis",
+              "data-science",
+              "machine-learning",
+              "python",
+              "segmentation",
+              "state-detection",
+              "time-series"
+            ]
+          },
+          "first_seen": "2026-10-07T13:10:59.780Z"
+        },
+        {
+          "node_type": "item",
           "title": "Seg-Eval",
           "description": "NeurIPS '25 Toward Interpretable Evaluation Measures for Time Series Segmentation Seg-Eval",
           "children": [],
@@ -1482,7 +1512,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T13:13:09.143Z",
+    "last_updated": "2026-10-07T13:10:59.780Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.",
@@ -1490,7 +1520,7 @@
       "id": 749049312,
       "language": "MATLAB",
       "license": "GPL-3.0",
-      "last_commit": "2026-07-21T04:10:25Z",
+      "last_commit": "2026-10-07T11:10:10Z",
       "open_issues": 0,
       "owner": "lzz19980125",
       "repo": "awesome-time-series-segmentation-papers",
@@ -1517,7 +1547,7 @@
         "unsupervised-learning"
       ]
     },
-    "original_repository_sha": "03e80bb938fef7138de723337e9fc5007390e7b7",
+    "original_repository_sha": "14eeceee5e8d95f624dd28f958b99c6d78c69d33",
     "enhanced_repository": "enhansome/enhansome-time-series-segmentation-papers",
     "enhanced_repository_description": null,
     "title": "Awesome Time Series Segmentation Papers with stars"
