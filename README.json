@@ -853,12 +853,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "A Python library for Time Series Segmentation (ECML-PKDD'26)",
+            "description": "A Python library for Time Series Segmentation [ECML-PKDD'26]",
             "homepage": "https://fchavelli.github.io/tsseg",
             "id": 1024737926,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-13T11:46:29Z",
+            "last_commit": "2026-10-14T10:03:27Z",
             "open_issues": 2,
             "owner": "fchavelli",
             "repo": "tsseg",
@@ -883,7 +883,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "A Python package to evaluate Time Series Segmentation (NeurIPS'25)",
+            "description": "A Python package to evaluate Time Series Segmentation [NeurIPS'25]",
             "homepage": null,
             "id": 1081304044,
             "language": "Jupyter Notebook",
@@ -1512,7 +1512,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T14:03:24.792Z",
+    "last_updated": "2026-10-14T11:41:17.494Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.",
