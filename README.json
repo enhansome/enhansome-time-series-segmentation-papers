@@ -858,17 +858,16 @@
             "id": 1024737926,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-15T08:20:53Z",
+            "last_commit": "2026-10-15T19:09:02Z",
             "open_issues": 1,
             "owner": "fchavelli",
             "repo": "tsseg",
             "stars": 15,
             "topics": [
               "change-point-detection",
-              "data-analysis",
-              "data-science",
               "machine-learning",
               "python",
+              "regime-detection",
               "segmentation",
               "state-detection",
               "time-series"
@@ -1512,7 +1511,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T11:18:32.417Z",
+    "last_updated": "2026-10-16T11:13:11.996Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.",
