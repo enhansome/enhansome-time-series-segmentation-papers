@@ -858,8 +858,8 @@
             "id": 1024737926,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-15T19:09:02Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-22T09:30:07Z",
+            "open_issues": 4,
             "owner": "fchavelli",
             "repo": "tsseg",
             "stars": 15,
@@ -1511,7 +1511,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T11:38:39.085Z",
+    "last_updated": "2026-10-22T11:39:11.120Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.",
@@ -1523,7 +1523,7 @@
       "open_issues": 0,
       "owner": "lzz19980125",
       "repo": "awesome-time-series-segmentation-papers",
-      "stars": 542,
+      "stars": 544,
       "topics": [
         "anomaly-detection",
         "awesome",
