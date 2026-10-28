@@ -858,8 +858,8 @@
             "id": 1024737926,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-27T11:29:00Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-27T19:25:06Z",
+            "open_issues": 3,
             "owner": "fchavelli",
             "repo": "tsseg",
             "stars": 15,
@@ -1511,7 +1511,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T12:00:13.248Z",
+    "last_updated": "2026-10-28T12:40:24.812Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.",
