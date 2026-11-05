@@ -245,7 +245,7 @@
             "open_issues": 0,
             "owner": "kotaNakm",
             "repo": "CyberCScope",
-            "stars": 4,
+            "stars": 5,
             "topics": []
           },
           "first_seen": "2026-08-28T18:33:55.067Z"
@@ -858,8 +858,8 @@
             "id": 1024737926,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-04T14:12:24Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-05T11:52:20Z",
+            "open_issues": 0,
             "owner": "fchavelli",
             "repo": "tsseg",
             "stars": 16,
@@ -1511,7 +1511,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T14:19:36.802Z",
+    "last_updated": "2026-11-05T14:30:07.294Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.",
@@ -1523,7 +1523,7 @@
       "open_issues": 0,
       "owner": "lzz19980125",
       "repo": "awesome-time-series-segmentation-papers",
-      "stars": 545,
+      "stars": 546,
       "topics": [
         "anomaly-detection",
         "awesome",
