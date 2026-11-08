@@ -659,7 +659,7 @@
             "open_issues": 0,
             "owner": "ermshaua",
             "repo": "classification-label-profile",
-            "stars": 5,
+            "stars": 6,
             "topics": []
           },
           "first_seen": "2026-08-28T18:33:55.067Z"
@@ -858,11 +858,11 @@
             "id": 1024737926,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-07T01:24:23Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-07T15:54:48Z",
+            "open_issues": 0,
             "owner": "fchavelli",
             "repo": "tsseg",
-            "stars": 16,
+            "stars": 17,
             "topics": [
               "change-point-detection",
               "machine-learning",
@@ -1379,7 +1379,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-06-24T21:33:18Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "perslev",
             "repo": "U-Time",
             "stars": 319,
@@ -1511,7 +1511,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T12:51:21.298Z",
+    "last_updated": "2026-11-08T13:13:09.166Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.",
