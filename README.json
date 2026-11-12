@@ -858,8 +858,8 @@
             "id": 1024737926,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-11T00:13:59Z",
-            "open_issues": 5,
+            "last_commit": "2026-11-12T12:39:45Z",
+            "open_issues": 6,
             "owner": "fchavelli",
             "repo": "tsseg",
             "stars": 18,
@@ -1382,7 +1382,7 @@
             "open_issues": 9,
             "owner": "perslev",
             "repo": "U-Time",
-            "stars": 321,
+            "stars": 322,
             "topics": [
               "deep-learning",
               "fully-convolutional-networks",
@@ -1511,7 +1511,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T14:02:04.692Z",
+    "last_updated": "2026-11-12T15:01:49.887Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.",
