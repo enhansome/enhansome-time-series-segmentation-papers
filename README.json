@@ -341,7 +341,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "WWW '23",
             "homepage": null,
             "id": 607511056,
             "language": "Python",
@@ -362,7 +362,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "NeurIPS '21",
             "homepage": null,
             "id": 422041561,
             "language": "Python",
@@ -1511,7 +1511,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T14:31:50.772Z",
+    "last_updated": "2026-11-22T14:27:30.516Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.",
