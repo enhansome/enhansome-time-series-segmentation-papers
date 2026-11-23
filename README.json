@@ -862,7 +862,7 @@
             "open_issues": 0,
             "owner": "fchavelli",
             "repo": "tsseg",
-            "stars": 18,
+            "stars": 19,
             "topics": [
               "change-point-detection",
               "machine-learning",
@@ -891,7 +891,7 @@
             "open_issues": 0,
             "owner": "fchavelli",
             "repo": "tsseg-eval",
-            "stars": 10,
+            "stars": 11,
             "topics": [
               "data-analysis",
               "data-science",
@@ -1511,7 +1511,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T14:27:30.516Z",
+    "last_updated": "2026-11-23T17:56:07.666Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.",
